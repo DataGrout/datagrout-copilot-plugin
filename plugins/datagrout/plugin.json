@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "datagrout",
+  "version": "1.0.0",
+  "description": "Connects your coding agent to the tools you link in DataGrout, such as issue trackers, docs, chat and support desks, through one OAuth-secured MCP server.",
+  "author": {
+    "name": "DataGrout",
+    "email": "support@datagrout.ai",
+    "url": "https://datagrout.ai"
+  },
+  "homepage": "https://datagrout.ai",
+  "repository": "https://github.com/DataGrout/datagrout-copilot-plugin",
+  "license": "MIT",
+  "keywords": ["datagrout", "mcp", "integrations", "oauth", "workflow"]
+}

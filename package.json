@@ -1,0 +1,13 @@
+{
+  "name": "datagrout-copilot-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Packaging for the DataGrout GitHub Copilot plugin",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node scripts/check-plugin.mjs"
+  }
+}
